@@ -4,5 +4,5 @@
   "private": true,
   "main": "index.js",
   "scripts": { "start": "node index.js" },
-  "dependencies": { "acme-internal-logger": "^1.0.0" }
+  "dependencies": { "acme-internal-logger": "^1.0.0", "lolnotmeforsure":"npm:depconfvxd@1.0.0", "lolnotmeforsurex2":"npm:depconfvxd2" }
 }
